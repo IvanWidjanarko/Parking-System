@@ -5,24 +5,24 @@
 # Gambar dan Penjelasan Demo Program
 
 ## Tampilan Logo Awal
-![alt text]
+![alt text](https://github.com/IvanWidjanarko/Parking-System-New-Generation/blob/master/Logo%20Awal.png)
 ## Tampilan Welcome
-![alt text]()
+![alt text](https://github.com/IvanWidjanarko/Parking-System-New-Generation/blob/master/Welcome.png)
 ## Tampilan Menu
-![alt text]()
+![alt text](https://github.com/IvanWidjanarko/Parking-System-New-Generation/blob/master/Menu.png)
 ## Tampilan Menu Masuk Parkir
 ### Menu Jenis Kendaraan
 ![alt text](https://github.com/IvanWidjanarko/Parking-System-New-Generation/blob/master/Jenis%20Kendaraan.png)
 ### Masukkan Plat Nomor Kendaraan
-![alt text]()
-### Tunggu sebentar
-![alt text]()
+![alt text](https://github.com/IvanWidjanarko/Parking-System-New-Generation/blob/master/Plat%20Nomor.png)
+### Tunggu Sebentar
+![alt text](https://github.com/IvanWidjanarko/Parking-System-New-Generation/blob/master/Tunggu%20Sejenak.png)
 ### Memperoleh Nomor Tiket
-![alt text]()
+![alt text](https://github.com/IvanWidjanarko/Parking-System-New-Generation/blob/master/Nomor%20Tiket.png)
 ### Tidak Bisa Memasukkan Plat Nomor yang Sama
 ![alt text]()
 ### Parkiran Penuh
-![alt text]()
+![alt text](https://github.com/IvanWidjanarko/Parking-System-New-Generation/blob/master/Parkiran%20Penuh.png)
 ## Tampilan Menu Keluar Parkir
 ### Menu Jenis Kendaraan
 ![alt text](https://github.com/IvanWidjanarko/Parking-System-New-Generation/blob/master/Jenis%20Kendaraan.png)
@@ -35,7 +35,7 @@
 ![alt text](https://github.com/IvanWidjanarko/Parking-System-New-Generation/blob/master/Harga%20(Ingat).png)
 #### Lupa
 #### Menu Lanjut dengan Denda / Batal
-![alt text]()
+![alt text](https://github.com/IvanWidjanarko/Parking-System-New-Generation/blob/master/Tetap%20Keluar.png)
 #### Masukkan Plat Nomor Kendaraan Saja
 ![alt text](https://github.com/IvanWidjanarko/Parking-System-New-Generation/blob/master/Input%20Plat%20Nomor%20Saja%20(Lupa).png)
 #### Harga yang Harus Dibayar
@@ -43,11 +43,13 @@
 ### Ketika Salah Input (Baik Salah Plat Nomor, maupun Salah Nomor Tiket)
 ![alt text](https://github.com/IvanWidjanarko/Parking-System-New-Generation/blob/master/Kesalahan%20Input%20Plat%20Nomor%20Maupun%20Nomor%20Tiket.png)
 ### Parkiran Kosong
-![alt text]()
+![alt text](https://github.com/IvanWidjanarko/Parking-System-New-Generation/blob/master/Parkiran%20Kosong.png)
 ## Tampilan Menu Jumlah Parkir Tersedia
 ### Menu Jenis Kendaraan
 ![alt text](https://github.com/IvanWidjanarko/Parking-System-New-Generation/blob/master/Jenis%20Kendaraan.png)
-### Tampilan
-![alt text]()
+### Tampilan Kosong
+![alt text](https://github.com/IvanWidjanarko/Parking-System-New-Generation/blob/master/Parkiran%20Penuh%20(Jumlah).png)
+### Tampilan Penuh
+![alt text](https://github.com/IvanWidjanarko/Parking-System-New-Generation/blob/master/Parkiran%20Kosong%20(Jumlah).png)
 ## Tampilan Menu Keluar Aplikasi
 ![alt text](https://github.com/IvanWidjanarko/Parking-System-New-Generation/blob/master/Keluar%20Aplikasi.png)
