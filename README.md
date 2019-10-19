@@ -19,6 +19,8 @@
 
 ### Memperoleh Nomor Tiket
 
+### Tidak Bisa Memasukkan Plat Nomor yang Sama
+
 ### Parkiran Penuh
 
 ## Tampilan Menu Keluar Parkir
