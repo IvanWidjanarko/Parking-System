@@ -51,9 +51,9 @@ Untuk memenuhi tugas mini project mata kuliah Pemrograman Lanjut – 01 pada sem
 ## Tampilan Menu Jumlah Parkir Tersedia
 ### Menu Jenis Kendaraan
 ![alt text](https://github.com/IvanWidjanarko/Parking-System-New-Generation/blob/master/Jenis%20Kendaraan.png)
-### Tampilan Kosong
-![alt text](https://github.com/IvanWidjanarko/Parking-System-New-Generation/blob/master/Parkiran%20Penuh%20(Jumlah).png)
 ### Tampilan Penuh
+![alt text](https://github.com/IvanWidjanarko/Parking-System-New-Generation/blob/master/Parkiran%20Penuh%20(Jumlah).png)
+### Tampilan Kosong
 ![alt text](https://github.com/IvanWidjanarko/Parking-System-New-Generation/blob/master/Parkiran%20Kosong%20(Jumlah).png)
 ## Tampilan Menu Keluar Aplikasi
 ![alt text](https://github.com/IvanWidjanarko/Parking-System-New-Generation/blob/master/Keluar%20Aplikasi.png)
